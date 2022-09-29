@@ -1,4 +1,4 @@
-# Activitats Unitat 1 - Introducció a Python
+Unitat 1
 Activitats de Python de la primera unitat
 ---
 
